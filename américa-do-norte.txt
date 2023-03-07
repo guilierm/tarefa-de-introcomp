@@ -1,1 +1,3 @@
-EUA, Canadá, México.
+EUA = Washington
+Canadá = Ottawa
+México = Cidade do México
