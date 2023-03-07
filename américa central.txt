@@ -1,1 +1,2 @@
-Guatemala, Belize, Honduras, El Salvador, Nicarágua, Costa Rica, Panamá, Antígua e Barbuda, Bahamas, Barbados, Cuba, Dominica, Granada, Haiti, Jamaica, República Dominicana, Santa Lúcia, São Cristóvão e Névis, São Vicente e Granadinas, Trinidad e Tobago. 
+Ístmica: Guatemala, Belize, Honduras, El Salvador, Nicarágua, Costa Rica, Panamá, 
+Insular: Antígua e Barbuda, Bahamas, Barbados, Cuba, Dominica, Granada, Haiti, Jamaica, República Dominicana, Santa Lúcia, São Cristóvão e Névis, São Vicente e Granadinas, Trinidad e Tobago. 
